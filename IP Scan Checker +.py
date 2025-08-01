@@ -4,7 +4,7 @@ from tkinter import messagebox, filedialog
 import csv
 
 # AbuseIPDB API key
-API_KEY = 'your key' # Insert your own API key from AbuseIPDB
+API_KEY = '3f66dd68273c3981daf1c9bd3143f01020cc82f6f855badf018070814b8d0e9a2f089c8095824498'
 
 results_data = []
 
