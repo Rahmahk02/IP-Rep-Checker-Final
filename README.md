@@ -21,4 +21,4 @@ This tool was built for a prompt engineering research facility task to demonstra
 
 2. Run the script:
 
-python ip_scan_checker.py
+python IP Scan Checker +.py
