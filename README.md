@@ -13,12 +13,11 @@ A basic desktop tool to check the reputation of IP addresses using the AbuseIPDB
 
 This tool was built for a prompt engineering research facility task to demonstrate API usage, data handling, and GUI design using Python.
 
-## 🚀 How to Run It
+## 🚀 How to Run It With Python terminal
 
-### Option 1: With Python
 1. Install the required libraries:
    pip install -r requirements.txt
 
 2. Run the script:
 
-python IP Scan Checker +.py
+python "IP Scan Checker +.py"
