@@ -5,10 +5,14 @@ A desktop tool to check the reputation of IP addresses using the AbuseIPDB API.
 ---
 
 ## ⚡ Try It Instantly
-If you don’t want to set up Python, you can download the pre-built executable version here:  
+
+Download the pre-built executable here:  
 [Download IP Reputation Checker.exe](https://github.com/Rahmahk02/IP-Rep-Checker-Final/raw/main/IP%20Scan%20Checker%20%2B.exe)
 
-Simply double-click the file to run the tool—no Python or terminal required!
+**Instructions:**
+1. Double-click the downloaded `.exe` file.
+2. Windows may show a security warning. Click **More info → Run anyway** to start the program.
+3. The tool will open and you can enter IP addresses to check their reputation.
 
 ## 💻 Features
 - Input one or more IP addresses (typed or pasted)  
@@ -54,5 +58,6 @@ This tool was built as a prompt engineering research task to demonstrate API usa
    ```bash
    python "IP Scan Checker +.py"
    ```
+
 
 
