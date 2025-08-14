@@ -7,7 +7,6 @@ import csv
 # 1️⃣ API Key for AbuseIPDB
 # -----------------------------------
 # This key is required for authenticating API requests.
-# (⚠️ Keep your API key secret! Do NOT commit it to public repos.)
 API_KEY = '3f66dd68273c3981daf1c9bd3143f01020cc82f6f855badf018070814b8d0e9a2f089c8095824498'
 
 # Stores the last batch of results for CSV export
@@ -128,4 +127,5 @@ result_text.pack(pady=10)
 
 # Start Tkinter event loop
 root.mainloop()
+
 
