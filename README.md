@@ -42,7 +42,7 @@ This tool was built as a prompt engineering research task to demonstrate API usa
 
 2. **Check Python is installed**  
    ```bash
-   python3 --version
+   python --version
 3. **Clone the repository**  
    ```bash
    git clone https://github.com/Rahmahk02/IP-Rep-Checker-Final.git
@@ -58,6 +58,7 @@ This tool was built as a prompt engineering research task to demonstrate API usa
    ```bash
    python "IP Scan Checker +.py"
    ```
+
 
 
 
