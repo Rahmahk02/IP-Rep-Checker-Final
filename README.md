@@ -27,11 +27,11 @@ This tool was built as a prompt engineering research task to demonstrate API usa
    ```bash
    git clone https://github.com/Rahmahk02/IP-Rep-Checker-Final.git
    cd IP-Rep-Checker-Final
-2. Install dependencies
+2. **Install dependencies**
    ```bash
    pip install -r requirements.txt
 
-3. Running the Tool
+3. **Running the Tool**
    ```bash
    python "IP Scan Checker +.py"
 💡 Notes
@@ -41,5 +41,6 @@ Works on Windows, macOS, and Linux (requires Python and tkinter)
 Ensure you have an active internet connection to query the API
 
 CSV export will overwrite existing files with the same name unless renamed
+
 
 
