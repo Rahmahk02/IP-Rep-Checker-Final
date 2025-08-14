@@ -4,6 +4,14 @@ A desktop tool to check the reputation of IP addresses using the AbuseIPDB API.
 
 ---
 
+## 💻 Features
+- Input one or more IP addresses (typed or pasted)  
+- Query AbuseIPDB for threat information  
+- Display results including abuse score, ISP, country, etc.  
+- Export results to a CSV file for further analysis
+  
+---
+
 ## ⚡ Try It Instantly
 
 Download the pre-built executable here:  
@@ -13,12 +21,6 @@ Download the pre-built executable here:
 1. Double-click the downloaded `.exe` file.
 2. Windows may show a security warning. Click **More info → Run anyway** to start the program.
 3. The tool will open and you can enter IP addresses to check their reputation.
-
-## 💻 Features
-- Input one or more IP addresses (typed or pasted)  
-- Query AbuseIPDB for threat information  
-- Display results including abuse score, ISP, country, etc.  
-- Export results to a CSV file for further analysis  
 
 ---
 
@@ -58,6 +60,7 @@ This tool was built as a prompt engineering research task to demonstrate API usa
    ```bash
    python "IP Scan Checker +.py"
    ```
+
 
 
 
