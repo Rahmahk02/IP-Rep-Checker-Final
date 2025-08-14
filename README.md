@@ -19,28 +19,33 @@ This tool was built as a prompt engineering research task to demonstrate API usa
 
 ## 🛠 Prerequisites
 - Python **3.8+** (tested on 3.10)
-
+- An active internet connection (to query the API)  
+- `tkinter` (usually included with Python)  
 ---
 
-## 🚀 Installation & Setup
-1. **Clone the repository**  
+## 🚀 Installation & Run
+
+1. **Open your terminal / command prompt**  
+   - **Windows:** Press `Win + R`, type `cmd` or `powershell`, and hit Enter  
+   - **macOS:** Open **Terminal** from Applications → Utilities  
+   - **Linux:** Open your preferred terminal  
+
+2. **Check Python is installed**  
+   ```bash
+   python3 --version
+3. **Clone the repository**  
    ```bash
    git clone https://github.com/Rahmahk02/IP-Rep-Checker-Final.git
+   ```
+   ```bash
    cd IP-Rep-Checker-Final
-2. **Install dependencies**
+   ```
+4. **Install dependencies**
    ```bash
    pip install -r requirements.txt
-
-3. **Running the Tool**
+   ```
+5. **Running the Tool**
    ```bash
    python "IP Scan Checker +.py"
-💡 Notes
-
-Works on Windows, macOS, and Linux (requires Python and tkinter)
-
-Ensure you have an active internet connection to query the API
-
-CSV export will overwrite existing files with the same name unless renamed
-
-
+   ```
 
